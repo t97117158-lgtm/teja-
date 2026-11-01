@@ -1,0 +1,11 @@
+{
+  "name": "TEJA Secure Messaging",
+  "description": "Zero-knowledge, phone-numberless, end-to-end encrypted messaging with Smart Privacy Blur, WebRTC encrypted calling with noise cancellation, and multilingual support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
